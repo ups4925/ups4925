@@ -1,16 +1,27 @@
-## Hi there 👋
+<!-- Top Logo -->
+<p align="center">
+  <img src="ups_logo.png" alt="UPS Logo" width="400">
+</p>
 
-<!--
-**ups4925/ups4925** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center" style="color: lightblue;">
+  The UPS Store Spotswood NJ
+</h1>
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📧 Store Emails
+
+```
+store4925@theupsstore.com
+store4925@gmail.com
+```
+
+<br>
+
+## 🧑‍💻 Store Website
+
+<p align="center">
+  <a href="https://ups4925.github.com">
+    <img src="https://img.shields.io/badge/Upload%20a%20File-blue?style=for-the-badge">
+  </a>
+</p>
