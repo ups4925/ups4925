@@ -26,6 +26,6 @@ store4925@gmail.com
 
 <p align="center">
   <a href="https://ups4925.github.com">
-    <img src="https://img.shields.io/badge/Visit%20a%20Website-blue?style=for-the-badge">
+    <img src="https://img.shields.io/badge/Visit%20Website-blue?style=for-the-badge">
   </a>
 </p>
