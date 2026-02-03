@@ -13,8 +13,12 @@
 
 ```
 store4925@theupsstore.com
+```
+
+```
 store4925@gmail.com
 ```
+
 
 <br>
 
@@ -22,6 +26,6 @@ store4925@gmail.com
 
 <p align="center">
   <a href="https://ups4925.github.com">
-    <img src="https://img.shields.io/badge/Upload%20a%20File-blue?style=for-the-badge">
+    <img src="https://img.shields.io/badge/Visit%20a%20Website-blue?style=for-the-badge">
   </a>
 </p>
